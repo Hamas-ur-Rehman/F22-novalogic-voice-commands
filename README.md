@@ -14,16 +14,29 @@
 
 VOICE COMMANDS:
 BACKSPACE --- to start the enines
+
 FLY--up key
+
 DOWN--down key
+
 LEFT--left key
+
 RIGHT--right key
+
 SHOPPING--crazy mode
+
 LAND--auto landing 
+
 LEVEL-- level flight
+
 SHOP--fire weapon
+
 GUN--gun mode
+
 MISSILE--air to air mode
+
 GROUND--air to ground mode
+
 BOMB--bomb mode
+
 BAIL--eject
