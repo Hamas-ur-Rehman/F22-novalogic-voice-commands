@@ -1,4 +1,8 @@
 # F22 novalogic voice commands
+![4xffk6](https://user-images.githubusercontent.com/47780362/107470390-2cbbd480-6b8d-11eb-99aa-6ac1b1ecbf75.gif)
+<br>
+https://youtu.be/4LA6AjW17lk
+<br>
  the code will let u control the novalogic games using voice commands
  
  
